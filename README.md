@@ -1,9 +1,13 @@
 # JavaProlog
 Practica de integracion de Prolog con java, para la generacion de un sistema experto.
 
-Integrantes:
-Ricardo Daniel Oy Mis 
-Alan Ivan Oropeza Pimentel
-Sergio Eduardo Ramirez Fernandez
+__Integrantes:__
+
+1. Ricardo Daniel Oy Mis 
+
+2. Alan Ivan Oropeza Pimentel
+
+3. Sergio Eduardo Ramirez Fernandez
+
 
 8vo ISC
