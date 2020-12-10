@@ -26,6 +26,8 @@ public class consultas
             
             X = new Variable("X");
             Y = new Variable("Y");
+
+
         } catch (Exception e) 
         {
             System.err.println("consultas: "+ e.toString());
