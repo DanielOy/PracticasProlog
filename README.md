@@ -1,4 +1,4 @@
-# JavaProlog
+# Sistema Experto con Prolog & Java
 Practica de integracion de Prolog con java, para la generacion de un sistema experto.
 
 __Integrantes:__
